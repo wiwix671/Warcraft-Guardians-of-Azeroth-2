@@ -1,6 +1,6 @@
-l_russian:
+﻿l_russian:
  wc_magic_flavor_events.0010.t: "Флакон лазурного обещания"
- wc_magic_flavor_events.0010.d: ""Мой [ROOT.Char.GetLadyLord|U], удача улыбается вам". [merchant.GetWomanMan] указывает на [merchant.GetHerHis] сумку. Под капюшоном позвякивают флаконы, и [merchant.GetSheHe] достаёт стеклянную склянку с клубящейся голубой жидкостью.\n\n"Я — [merchant.GetFirstNameNoTooltip]. Со мной зелье, способное восполнить вашу ману, мой [ROOT.Char.GetLadyLord|U]. Созданное лишь из самых могущественных реактивов, пропитанных силой лей-линий, — один глоток, и вы снова сможете повелевать своей магией".\n\nНастоящие зелья маны дороги, но это лихорадочное сотворение заклинаний опустошило мою ману..."
+ wc_magic_flavor_events.0010.d: "«Мой [ROOT.Char.GetLadyLord|U], удача улыбается вам». [merchant.GetWomanMan] указывает на [merchant.GetHerHis] сумку. Под капюшоном позвякивают флаконы, и [merchant.GetSheHe] достаёт стеклянную склянку с клубящейся голубой жидкостью.\n\n«Я — [merchant.GetFirstNameNoTooltip]. Со мной зелье, способное восполнить вашу ману, мой [ROOT.Char.GetLadyLord|U]. Созданное лишь из самых могущественных реактивов, пропитанных силой лей-линий, — один глоток, и вы снова сможете повелевать своей магией».\n\nНастоящие зелья маны дороги, но это лихорадочное сотворение заклинаний опустошило мою ману..."
  wc_magic_flavor_events.0010.a: "Называйте свою цену, [merchant.GetFirstNameNoTooltip]."
  wc_magic_flavor_events.0010.a_good: "Зелье мощное"
  wc_magic_flavor_events.0010.a_bad: "Зелье действует, но слабо"
@@ -51,7 +51,7 @@ l_russian:
  wc_magic_flavor_events.0030.b: "Слишком долго я был скован учениями [ROOT.Char.GetFaith.GetAdjectiveNoTooltip|U]!"
  wc_magic_flavor_events.0030.c: "Опасно. Интересно, но опасно."
  wc_magic_flavor_events.0030.d: "Ужасно! Я должен уничтожить её, пока она не развратила меня."
- 
+
  # Модификаторы
  wc_absorbed_leyline_crystals: "Поглощённые кристаллы лей-линий"
  wc_absorbed_leyline_crystals_desc: "Этот персонаж поглотил несколько кристаллов лей-линий.\n@wc_spell_icon! Длительность [wc_spell|E]: #P +10%#!\n@wc_stat_mana_icon! [wc_available_mana_to_stat|E]: #P +5%#!"
