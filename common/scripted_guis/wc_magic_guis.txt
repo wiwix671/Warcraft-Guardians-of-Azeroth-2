@@ -2113,7 +2113,7 @@ get_spells_list_sgui = {
             clear_variable_list = current_spell_list
             switch = {
                 trigger = var:current_spell_class
-                flag:Order = {
+                flag:order = {
                     get_spells_list_effect = { CLASS = Order }
                 }
                 flag:disorder = {
