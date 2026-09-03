@@ -115,8 +115,8 @@
  animate_rage_complete: "Ожившая Ярость завершена"
 
  wc_flamestrike_duration_value_desc: "Общая длительность всех уровней эффекта"
- select_spell_class_ai_effect_debug: "#d showing debug info for spell class selection AI effect because you are in debug mode LOL#!"
- select_spell_class_ai_effect_debug_2: "#d higher this number is, more likely the AI will pick this class#!"
+ select_spell_class_ai_effect_debug: "#d Отображается отладочная информация об эффекте ИИ для выбора класса заклинаний, потому что включён режим отладки, лол#!"
+ select_spell_class_ai_effect_debug_2: "#d Чем выше это число, тем вероятнее, что ИИ выберет этот класс#!"
 
 
  # Sidebar

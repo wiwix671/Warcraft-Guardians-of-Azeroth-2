@@ -131,11 +131,11 @@
  usurp_entire_title_effect_first: "Вы узурпируете [TARGET_TITLE.GetName]"
  usurp_entire_title_effect_first_past: "Вы узурпировали [TARGET_TITLE.GetName]"
 
- usurp_entire_title_effect_third: "[CHARACTER.GetName] usurps the [TARGET_TITLE.GetName]"
- usurp_entire_title_effect_third_past: "[CHARACTER.GetName] usurped the [TARGET_TITLE.GetName]"
+ usurp_entire_title_effect_third: "[CHARACTER.GetName] узурпирует [TARGET_TITLE.GetName]"
+ usurp_entire_title_effect_third_past: "[CHARACTER.GetName] узурпировал [TARGET_TITLE.GetName]"
 
- usurp_entire_title_effect_global: "Usurp the [TARGET_TITLE.GetName]"
- usurp_entire_title_effect_global_past: "usurped the [TARGET_TITLE.GetName]"
+ usurp_entire_title_effect_global: "Узурпирует [TARGET_TITLE.GetName]"
+ usurp_entire_title_effect_global_past: "Узурпировал [TARGET_TITLE.GetName]"
 
  turn_realm_undead_effect_first: "Вы превращаете всех персонажей своего королевства в [GetTrait('being_undead').GetName(GetNullCharacter)]"
  turn_realm_undead_effect_first_past: "Вы превратили всех персонажей своего королевства в [GetTrait('being_undead').GetName(GetNullCharacter)]"

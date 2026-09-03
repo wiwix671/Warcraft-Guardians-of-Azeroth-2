@@ -42,7 +42,7 @@
  ##Tribal 
  abomination: "Поганища"
  unlock_maa_abomination: "Можно нанимать [GetMaA('abomination').GetName] в качестве [men_at_arms|E]"
- archmagi: "Archmagi" #NT!
+ archmagi: "Верховные маги"
  unlock_maa_archmage: "Можно нанимать [GetMaA('archmage').GetName] в качестве [men_at_arms|E]"
  blademaster: "Мастера клинка"
  unlock_maa_blademaster: "Можно нанимать [GetMaA('blademaster').GetName] в качестве [men_at_arms|E]"

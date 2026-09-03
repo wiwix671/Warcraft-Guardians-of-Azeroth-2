@@ -45,9 +45,9 @@
   
  ep3_governor_yearly.3002.t: "Из налогоплательщиков в арендаторы"
  ep3_governor_yearly.3002.desc: "«Смотрите, смотрите, документы-то вот они! — злится [tax_farmer.GetName].\n\n«Вот еще одна деревня, где я раньше [Select_CString(tax_farmer.IsFemale, 'собирала', 'собирал' )] налоги по договору. А теперь вот, пожалуйста — налоги взимает новый землевладелец, [landlord.GetName]! И платит [Select_CString(landlord.IsFemale, 'она', 'он' )] жалкие гроши».\n\n[Select_CString(landlord.IsFemale, 'Эта', 'Этот' )]"
- ep3_governor_yearly.3002_insult_orcish: "mongrel"
- ep3_governor_yearly.3002_insult_elven: "knife-ear"
- ep3_governor_yearly.3002_insult_human: "pink-skin"
+ ep3_governor_yearly.3002_insult_orcish: "полукровка"
+ ep3_governor_yearly.3002_insult_elven: "остроухий"
+ ep3_governor_yearly.3002_insult_human: "розовокожий"
  ep3_governor_yearly.3002_insult_generic: "[landlord.Custom('InsultNoun')]"
  ep3_governor_yearly.3002.desc_mid: "[Select_CString(landlord.IsFemale, 'наврала', 'наврал' )] деревенщинам насчет защиты. Теперь [Select_CString(landlord.IsFemale, 'она', 'он' )] скупает местные земли"
  ep3_governor_yearly.3002_half_duchy: "просто в #EMP огромных#! количествах."

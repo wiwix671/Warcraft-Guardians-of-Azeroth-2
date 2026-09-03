@@ -109,7 +109,7 @@
  wc_horde_invasion.1502.opt.c: "Сейчас придётся уважать тех, кто хранит старые обычаи."
  # Gul'dan
  wc_horde_invasion.1511.title: "Воплощение Тьмы"
- wc_horde_invasion.1511.desc: "Портал сработал, как и обещал тот маг. Но на этот раз я не буду пешкой — я буду властвовать. [Глоссарий( 'Мой бывший наставник', 'NERZHUL_GLOSS' )] доверился такому существу, и потерял всё, как и я. Кил'джеден заставил меня истребить [GetTrait('creature_draenei').GetName(GetNullCharacter)], [Глоссарий( 'разрушить стихии', 'HAND_OF_GULDAN_GLOSS' )] Дренора и поработить Орду — мой шедевр — посредством [Глоссарий('Крови Маннорота', 'BLOOD_OF_MANNOROTH_GLOSS')]. И всё ради умирающего мира, враждующих кланов, дерущихся за последние крохи жизни, и утраты их веры в меня — пророка их возвышения! Но этот умирающий мир остался позади. Впереди — Азерот, созревший для завоевания.\n\nЭтот портал даёт нам этот мир — землю разделённых королевств и жалких владык... Они сгорят, но не ради него. Я изучил пути Кил'джедена, и этот маг будет не лучше. Он лишь раз обмолвился о Гробнице Саргераса, но мне этого довольно — я знаю, что она существует. [stormwind_holder.GetPrimaryTitle.GetNameNoTier] сгорит, как он и приказал. А потом он откроет мне свои тайны… #EMP #bold прежде чем я раздавлю его!#!#!"
+ wc_horde_invasion.1511.desc: "Портал сработал, как и обещал тот маг. Но на этот раз я не буду пешкой — я буду властвовать. [Glossary( 'Мой бывший наставник', 'NERZHUL_GLOSS' )] доверился такому существу, и потерял всё, как и я. Кил'джеден заставил меня истребить [GetTrait('creature_draenei').GetName(GetNullCharacter)], [Glossary( 'разрушить стихии', 'HAND_OF_GULDAN_GLOSS' )] Дренора и поработить Орду — мой шедевр — посредством [Glossary('Крови Маннорота', 'BLOOD_OF_MANNOROTH_GLOSS')]. И всё ради умирающего мира, враждующих кланов, дерущихся за последние крохи жизни, и утраты их веры в меня — пророка их возвышения! Но этот умирающий мир остался позади. Впереди — Азерот, созревший для завоевания.\n\nЭтот портал даёт нам этот мир — землю разделённых королевств и жалких владык... Они сгорят, но не ради него. Я изучил пути Кил'джедена, и этот маг будет не лучше. Он лишь раз обмолвился о Гробнице Саргераса, но мне этого довольно — я знаю, что она существует. [stormwind_holder.GetPrimaryTitle.GetNameNoTier] сгорит, как он и приказал. А потом он откроет мне свои тайны… #EMP #bold прежде чем я раздавлю его!#!#!"
  wc_horde_invasion.1511.a: "И Совет Теней станет моим клинком!"
  wc_horde_invasion.1511.a.flavor: "Совет Теней — твоё главное оружие. Твои агенты и прислужники повсюду в Орде, даже среди твоих внутренних врагов. Они по-прежнему верят в тебя, уверенные, что ты вознесёшь их к могуществу рядом с собой. Сила Орды — в твоих руках."
  wc_horde_invasion.1511.a_alternative: "Мне придётся восстанавливать Совет, иначе я пропал."
@@ -117,7 +117,7 @@
  wc_horde_invasion.1511.b: "Чернорук точно предаст меня."
  wc_horde_invasion.1511.b.flavor: "Чернорук слишком честолюбив, чтобы надолго сохранить верность. Он знает, что ты управлял его возвышением, и ненавидит верёвки, за которые его дёргают. Однажды он попытается сбросить тебя, чтобы править Ордой безраздельно — лучше ударить первым."
  wc_horde_invasion.1512.title: "Мой любимый питомец"
- wc_horde_invasion.1512.desc.intro: "Моя слуга, [garona_character.GetFirstName]. Полукровка нашего мира, [garona_character.GetSheHe] сочетает чистую силу [garona_character.GetHerHis] матери-дренейки и хитрость [garona_character.GetHerHis] отца-орка. С помощью псионических техник, которым нас обучили [Глоссарий( 'Бледные орки', 'PALE_ORCS_GLOSS' )], глушащих [garona_character.GetHerHis] моральные устои и своеволие, [garona_character.GetSheHe] с рождения готовилась стать идеальной убийцей.  \n\nТеперь, когда мы обосновались в Азероте, самое время привлечь Гарона к её работе."
+ wc_horde_invasion.1512.desc.intro: "Моя слуга, [garona_character.GetFirstName]. Полукровка нашего мира, [garona_character.GetSheHe] сочетает чистую силу [garona_character.GetHerHis] матери-дренейки и хитрость [garona_character.GetHerHis] отца-орка. С помощью псионических техник, которым нас обучили [Glossary( 'Бледные орки', 'PALE_ORCS_GLOSS' )], глушащих [garona_character.GetHerHis] моральные устои и своеволие, [garona_character.GetSheHe] с рождения готовилась стать идеальной убийцей.  \n\nТеперь, когда мы обосновались в Азероте, самое время привлечь Гарона к её работе."
  wc_horde_invasion.1512.desc.canon_directive: "Целью станет не кто иной, как король Штормграда Лэйн — наш враг в грядущей войне. Приманкой послужат сведения о предательстве мага Медива, чья полезность вскоре иссякнет."
  wc_horde_invasion.1512.desc.player_driven: "Итак, на кого мне натравить моего самого ценного и любимого питомца?"
  wc_horde_invasion.1512.opt.a: "[stormwind_holder.GetTitledFirstName] падёт от [garona_character.GetHerHis] клинка и моей воли!"
@@ -129,7 +129,7 @@
 
  # Durotan
  wc_horde_invasion.1521.title: "Предатель орков"
- wc_horde_invasion.1521.desc: "Уже не первый год [guldan_character.GetFirstName] собирал орков у [Глоссарий( 'Трона Кил'джедена', 'THRONE_OF_KILJAEDEN_GLOSS' )], предлагая им свой [Глоссарий( '«дар»', 'BLOOD_OF_MANNOROTH_GLOSS' )]. Этот напиток давал нам силу, но вместе с тем окрашивал нашу кожу в зелень и пробуждал глубочайшую жажду крови и насилия. В ужасе от увиденного я запретил [ROOT.Char.GetCulture.GetCollectiveNoun] прикасаться к нему. Но этого оказалось мало — наша кожа тоже позеленела, и я уже вижу, как кровожадность закрадывается в наши сердца.\n\nКланы, оставшиеся на Дреноре, погрузились в дикое безумие. [ROOT.Char.GetLiege.GetFirstName] отобрал лишь тех, в ком осталась хотя бы искра разума — таких, как мы, — чтобы вести их сюда, в Азерот."
+ wc_horde_invasion.1521.desc: "Уже не первый год [guldan_character.GetFirstName] собирал орков у [Glossary( 'Трона Кил'джедена', 'THRONE_OF_KILJAEDEN_GLOSS' )], предлагая им свой [Glossary( '«дар»', 'BLOOD_OF_MANNOROTH_GLOSS' )]. Этот напиток давал нам силу, но вместе с тем окрашивал нашу кожу в зелень и пробуждал глубочайшую жажду крови и насилия. В ужасе от увиденного я запретил [ROOT.Char.GetCulture.GetCollectiveNoun] прикасаться к нему. Но этого оказалось мало — наша кожа тоже позеленела, и я уже вижу, как кровожадность закрадывается в наши сердца.\n\nКланы, оставшиеся на Дреноре, погрузились в дикое безумие. [ROOT.Char.GetLiege.GetFirstName] отобрал лишь тех, в ком осталась хотя бы искра разума — таких, как мы, — чтобы вести их сюда, в Азерот."
  wc_horde_invasion.1521.desc_normal_outro: "\n\n[orgrim_character.GetFirstName] по-прежнему сомневается во мне: он утверждает, что один орк не способен уничтожить целый мир. Однако земля вокруг портала уже увядает, как это было на Дреноре. #EMP Проклятие на голову [guldan_character.GetFirstNameNoTooltip]!#! Если его не остановить, нашему народу суждена лишь гибель."
  wc_horde_invasion.1521.desc_no_ogrim_outro: "\n\nПрочие кланы и слушать не желают: говорят, один орк не способен уничтожить мир. Однако земля вокруг портала уже увядает, как это было на Дреноре. #EMP Проклятие на голову [guldan_character.GetFirstNameNoTooltip]!#! Если его не остановить, нашему народу суждена лишь гибель."
  wc_horde_invasion.1521.desc_no_more_corruption_outro: "\n\nГул'дан ушёл, но его прихвостни всё ещё здесь, и порча разъедает наш народ изнутри. Нужно что-то делать — духи взывают к отмщению."
@@ -147,7 +147,7 @@
  wc_horde_invasion.1531.b: "[durotan_character.GetFirstNameNoTooltip] был прав с самого начала."
  wc_horde_invasion.1531.b_flavor: "Дары [guldan_character.GetFirstNamePossessiveNoTooltip] развратили твой народ задолго до того, как Кровь Маннорота отравила их жилы. Молчание стихий — знак того, что предки были преданы, и, быть может, более всего — тобой самим. [guldan_character.GetSheHe|U] нужно остановить, пока не поздно, даже если для этого придётся бросить вызов самой Орде."
  # Kilrogg
- wc_horde_invasion.1541.title: "The Ancient"
+ wc_horde_invasion.1541.title: "Древний"
  wc_horde_invasion.1541.desc: "Наши [Glossary( 'исконные земли', 'JUNGLE_OF_TANAAN_GLOSS' )] потеряны, обращены в бесплодную пустошь, пока Дренор увядает, покинутый стихиями. И всё же [ROOT.Char.GetCulture.GetName] отказываются склоняться перед судьбой!\n\nПосле долгих лет борьбы [guldan_character.GetFirstName] открыл Тёмный Портал, и [ROOT.Char.GetLiege.GetFirstName] приказал нам вторгнуться в этот новый мир. Он пообещал нашему народу плодородные земли и шанс начать всё заново.\n\nНо теперь я чувствую — конец близок. Когда я [Glossary( 'пожертвовал своим глазом', 'EYE_RITUAL_GLOSS' )], я узрел собственную смерть: меня сразили неведомые враги. Теперь я понимаю — это розовокожие этого мира!\n\n[ROOT.Char.GetLiege.GetFirstNameNoTooltip] уважает меня и дарует мне известную свободу. Но свобода без действий ничего не значит: я должен обеспечить будущее своего клана, прежде чем моё видение сбудется... или доказать, что его можно опровергнуть."
  wc_horde_invasion.1541.a: "Земли вокруг нас ждут лишь того, кто ими завладеет."
  wc_horde_invasion.1541.a_flavor: "Вы пришли сюда, чтобы дать своему народу новый дом. Чёрная Топь вторит вашим исконным Танаанским джунглям, а значит, поблизости должны быть пышные джунгли. Пора отправить разведчиков Кровожадного Племени исследовать окрестности."
@@ -155,14 +155,14 @@
  wc_horde_invasion.1541.b: "Я захвачу Орду, прежде чем настанет мой час!"
  wc_horde_invasion.1541.b_flavor: "Вся ваша жизнь была определена борьбой за выживание вашего клана. Захват титула Вождя перед смертью станет вершиной вашей славы, навеки вписав ваше имя в историю. Прочие вожди наверняка восхитятся вашей дерзостью."
  # Cho'gall
- wc_horde_invasion.1561.title: "The Whispers"
+ wc_horde_invasion.1561.title: "Шёпоты"
  wc_horde_invasion.1561.desc: "Едва #EMP мы#! пересекли Тёмный Портал, как видения и шёпоты осадили #EMP наш#! разум. Поначалу я считал это очередным проявлением тех демонов, о которых [guldan_character.GetFirstName] [Glossary( 'рассказывал нам', 'CHOGALL_FORMATION_GLOSS' )]. Но со временем, ведя [ROOT.Char.GetPrimaryTitle.GetName|l], я понял: эти видения исходят не от демонов, а от их забытых богов — сил, что намного древнее и могущественнее самого Легиона.\n\n#EMP Галл#! странно молчит. #EMP Он#!, столь склонный к порывам, кажется, не тронут этими голосами. Но я слышу их, и они становятся всё громче... И #EMP наши#! [Glossary( 'бледные орки', 'PALE_ORCS_GLOSS' )] — некогда самые непокорные из всех кланов — теперь беспрекословно повинуются #EMP нам#!, словно ведомые высшей волей. Они называют #EMP нас#! Сумеречными Пророками..."
  wc_horde_invasion.1561.a: "Что, если они были правы? Я должен убедить Галла. @twilights_hammer_cult_icon!"
- wc_horde_invasion.1561.a_flavor: "#EMP «Now everything is clear. The Legion wages its petty crusade out of fear of these gods, but it is doomed to fail, for the inevitable fate of the universe is the Twilight Hour.\nThe Horde, these visions, my encounter with the pale orcs — all of this cannot always be mere coincidence. Gall respects only strength, and so he must be made to see that this is the true path forward.»#!"
+ wc_horde_invasion.1561.a_flavor: "#EMP «Теперь всё ясно. Легион ведёт свою мелочную войну из страха перед этими богами, но ему суждено пасть, ибо неизбежная участь вселенной — Сумеречный Час.\nОрда, эти видения, моя встреча с бледными орками — всё это не может быть простым совпадением. Галл уважает только силу, а значит, ему придётся показать, что это — истинный путь вперёд.»#!"
  wc_horde_invasion.1561.b: "Мы не можем предать Пылающий Легион."
  wc_horde_invasion.1561.b_flavor: "Заключив союз с Легионом, обратного пути уже нет. Думать, что мы сможем перехитрить высшие демонические силы, значит навлечь на себя ужасы, какие и вообразить невозможно. Совет Теней предать нельзя."
  wc_horde_invasion.1561.c: "Никто не смеет указывать нам, что делать."
- wc_horde_invasion.1561.c_flavor: "#EMP «We are not slaves to demons, nor to whispers in the dark. Gall was right — we are the masters of our fate, and strength is ours to command. These voices… I will silence them myself!»#!"
+ wc_horde_invasion.1561.c_flavor: "#EMP «Мы не рабы демонов и не рабы шёпота во тьме. Галл был прав — мы хозяева своей судьбы, и сила подвластна нам. Эти голоса… Я заставлю их замолчать сам!»#!"
  wc_horde_invasion.1562.title: "Час Сумерек"
  wc_horde_invasion.1562.desc: "«#EMP (УБЕЙ [devoted.GetHerHim]!)#!» — прорычал Галл, когда я вырвал [devoted.GetNamePossessive] душу из [devoted.GetHerHis] тела, отправив её в [new_faith.PositiveAfterLife].\n\n«Видишь, Галл? Их сущность замыкает круг. [new_faith.PantheonTerm|U] одобряют это подношение. #EMP (Ха! СИЛА... ДА! Дай мне ЕЩЁ!)#!»\n\nЯ выдохнул над книгой в #EMP наших#! руках, пропитывая её страницы — уже пропитанные кровью верующих [new_faith.GetAdjective] — сущностью [devoted.GetName]. Галл ликует; этой ночью десятки расчленённых тел позволили мне выковать эту книгу. [new_faith.PantheonTerm|U] явили истину, что будет начертана внутри: [Glossary( 'Титаны', 'TITAN_GLOSS' )], Чёрная Империя, Легион, Бездна...\n\nЗа последние недели Галл открылся шёпотам. Наконец он понял. Каждое решение, что #EMP мы#! приняли, привело #EMP нас#! к этому самому мигу. #EMP Мы#! — их пророки. Сумерки падают!"
  wc_horde_invasion.1562.a: "Час Сумерек настал!"
@@ -170,7 +170,7 @@
  # Other Twilights Hammer
  wc_horde_invasion.1571.title: "$wc_horde_invasion.1561.title$"
  wc_horde_invasion.1571.desc: "С самого нашего прибытия на Азерот шёпоты ползут в мой разум. Порой это едва слышное бормотание, порой — пронзительные вопли. Бесформенные тени преследуют мои сны, повелевая преклонить колени. Боги Дренора... они умолкли. И [Glossary( 'Звезда', 'DARK_STAR_GLOSS' )] исчезла. Но здесь... здесь всё иначе. Здесь их много. Четверо... Нет, пятеро? Я знаю их, хотя никогда не видел.\n\n#EMP [Glossary( 'Йогг-Сарон', 'YOGG_SARON_GLOSS' )]#! — смерть и конец всего сущего. #EMP [Glossary( 'И'Шаарж', 'YSHAARJ_GLOSS' )]#! — ярость и ненависть, горящие в моём сердце. #EMP [Glossary( 'Н'Зот', 'NZOTH_GLOSS' )]#! — тайны, которым не суждено раскрыться. #EMP [Glossary( 'К'Тун', 'CTHUN_GLOSS' )]#! — чистое, неумолимое безумие. И ещё один... далёкий, слабый, но присутствующий. Бог крови и гнили.\n\nЕсть ли во всём этом смысл? Быть может, Азерот — новое начало... или ошибка. Страшная, страшная ошибка."
- wc_horde_invasion.1571.a: "I will follow. @twilights_hammer_cult_icon!"
+ wc_horde_invasion.1571.a: "Я последую за ним. @twilights_hammer_cult_icon!"
  wc_horde_invasion.1571.a_flavor: "Шёпоты теперь ясны. Они не молят — они призывают. [Glossary( 'Йогг-Сарон', 'YOGG_SARON_GLOSS' )], [Glossary( 'И'Шаарж', 'YSHAARJ_GLOSS' )], [Glossary( 'Н'Зот', 'NZOTH_GLOSS' )], [Glossary( 'К'Тун', 'CTHUN_GLOSS' )]... и кровоточащая тень за ними всеми. Ни цепей. Ни хозяев. Только судьба."
  wc_horde_invasion.1571.b: "Демоны платят лучше, чем шёпоты."
  wc_horde_invasion.1571.b_flavor: "Шёпоты лишь сулят. Демоны — даруют. Сила — это кровь, а не мечты. Легион дал нам силу, и с нею мы покоряли миры. Я возьму ещё один."
@@ -191,14 +191,14 @@
  # Events of the First War
  #################################
  # Garona Caught in Stormwind
- wc_horde_invasion.2001.title: "A Curious Prisoner"
+ wc_horde_invasion.2001.title: "Любопытная узница"
  wc_horde_invasion.2001.desc: "Странного вида орк-[garona_character.GetWomanMan] был пойман в окрестностях $c_stormwind$ и передан нашим тюремщикам. Утверждая, что выполняет миссию мести за народ [garona_character.GetHerHis] матери, уничтоженный Ордой, [garona_character.GetName] предлагает [garona_character.GetHerHis] услуги в качестве двойного агента и осведомителя.\n\n[stormwind_spymaster.GetName] предупреждает меня, что этому чужаку доверять нельзя, однако [stormwind_spymaster.GetSheHe] признаёт, что Орда не известна использованием таких военных уловок, как проникновение и покушение, и, похоже, предпочитает открытый бой. Некая иная сила движет этим обманом? Или [garona_character.GetFirstName] здесь искренне? Я размышляю над верным решением касательно узницы."
  wc_horde_invasion.2001.opt.a: "В этой борьбе нам пригодится любая помощь."
  wc_horde_invasion.2001.opt.b: "Допросите [garona_character.GetHerHim], но пока оставьте [garona_character.GetHerHim] под замком."
  wc_horde_invasion.2001.opt.c.regret: "Хоть мне и горько, мы должны обращаться с [garona_character.GetHerHim] как с вражеской шпионкой."
  wc_horde_invasion.2001.opt.c.normal: "[stormwind_spymaster.GetSheHe] — шпион, и мне нужны ответы от [garona_character.GetHerHim]."
  # The Investigation into Medivh
- wc_horde_invasion.2011.title: "The Unthinkable"
+ wc_horde_invasion.2011.title: "Немыслимое"
  wc_horde_invasion.2011.desc: "Среди шума военных донесений, совещаний по снабжению и просьб о помощи необычное прибытие ко двору заставляет отложить даже самые важные военные дела: [khadgar_character.GetFirstName], ученик Стража [medivh_character.GetFirstName]; и [garona_character.GetFullName], двойной агент Орды. По-видимому, эти двое осведомителей прибыли с доказательствами того, что не кто иной, как [medivh_character.GetFirstNameNoTooltip] [medivh_character.GetHerselfHimself] был ответствен за открытие Тёмного Портала и приведение орков!\n\nЕсли это правда, положение может оказаться страшнее наших самых кошмарных опасений. Отважный [lothar_character.GetTitledFirstName] вызвался расследовать, взяв с собой отряд солдат. Однако некоторые из моих советников призывают к осторожности. В конце концов, это может быть единственное существо, способное нас спасти; как мы смеем настраивать его против себя?"
  wc_horde_invasion.2011.opt.a: "Иди, [lothar_character.GetTitledFirstNameNoTooltip]. Заставь его ответить за это!"
  wc_horde_invasion.2011.opt.a.tt: "Отряд немедленно отправится на встречу с [medivh_character.GetFirstNameNoTooltip]..."
@@ -207,7 +207,7 @@
  wc_horde_invasion.2011.opt.c: "Правосудие может подождать до конца войны."
  wc_horde_invasion.2011.opt.c.tt: "Отряд отправится на встречу с [medivh_character.GetFirstNameNoTooltip], когда закончится война."
  # Gul'dan's Decision Regarding Medivh
- wc_horde_invasion.2101.title: "Usefulness Outlived?"
+ wc_horde_invasion.2101.title: "Полезность исчерпана?"
  wc_horde_invasion.2101.desc.canon: "Мои планы присвоить знания и могущество [medivh_character.GetFirstName] натолкнулись на препятствие: его ученик [khadgar_character.GetFirstName] направляется к так называемому «Стражу», чтобы спросить с него за [medivh_character.GetHerHis] роль в нашем прибытии на Азерот. Уже сейчас [khadgar_character.GetSheHe] находится в нескольких днях пути от резиденции [medivh_character.GetFirstNamePossessiveNoTooltip] в [medivh_character.GetCapitalLocation.GetTitle.GetBaseNameNoTier].\n\nС одной стороны, у ученика мало шансов одолеть [khadgar_character.GetHerHis] наставника в честном поединке, а предательство ученика [medivh_character.GetFirstNamePossessiveNoTooltip] может упрочить мою власть над душой [khadgar_character.GetHerHis]. С другой стороны, это возможность раз и навсегда избавиться от незавершённого дела — [medivh_character.GetFirstNameNoTooltip]. Поспешно опустошить разум [medivh_character.GetHerHis] значит оставить [medivh_character.GetHerHim] уязвимым перед выскочкой.\n\nРазумеется, заклинание потребует времени на подготовку, и сроки будут сжаты. Не исключено даже, что я столкнусь с некоторыми #emp побочными эффектами#!, если [medivh_character.GetSheHe] погибнет. Как мне поступить?"
  wc_horde_invasion.2101.desc.non_canon: "Пришло время привести в исполнение планы по присвоению знаний и могущества так называемого «Стража» [medivh_character.GetFirstName]. Ослабленный демоническим влиянием и неспособный восстановиться после открытия Тёмного Портала, [medivh_character.GetFirstNameNoTooltip] не в силах сопротивляться моему вторжению, даже пока моё терпение истощается. С каждой победой [story_owner.GetFirstName] становится всё могущественнее и почитаемее, и [story_owner.GetSheHe] нельзя позволить мне мешать. Я должен найти #emp то, за чем сюда явился#!.\n\nРазумеется, я могу подождать, пока моя сила возрастёт, а сила [story_owner.GetFirstNamePossessiveNoTooltip] угаснет; да и глупец [medivh_character.GetFirstNameNoTooltip] ещё может пригодиться. Я тщательно обдумываю свои возможности..."
  wc_horde_invasion.2101.opt.a: "Богоподобие не может больше ждать."
@@ -217,18 +217,18 @@
  wc_horde_invasion.2101.opt.c: "Я предупрежу [medivh_character.GetFirstNameNoTooltip] о предательстве [medivh_character.GetHerHis] ученика."
  wc_horde_invasion.2101.opt.c.tt: "Немного повышает шансы [medivh_character.GetFirstNamePossessiveNoTooltip] пережить встречу с [khadgar_character.GetFirstNameNoTooltip]."
  # Gul'dan's Torpor'
- wc_horde_invasion.2111.title.confront: "The Backlash"
+ wc_horde_invasion.2111.title.confront: "Ударная волна"
  wc_horde_invasion.2111.desc.confront: "Я лихорадочно роюсь в разуме [medivh_character.GetFirstNamePossessive], ускоряясь по мере того, как чувствую, как магические удары отдаются болью в теле [medivh_character.GetHerHis]. Я ищу всё, что связано с моей конечной целью в этом мире: #N Гробницей Саргераса#!. Удары сыплются один за другим, и, несмотря на немалую магическую мощь [medivh_character.GetHerHis], [medivh_character.GetSheHe] не может использовать её, отвлечённый моим вмешательством в нервы.\n\nВ тот самый миг, когда последний сгусток тайной энергии пробивает мана-щит [medivh_character.GetHerHis], пропуская удар клинка в грудь [medivh_character.GetHerHis], я вижу карту, на которую с укоризной указывает мерзкий эльфийский палец. За то время, что клинок пронзает кожу, ломает рёбра и достигает желудочка, я слышу разговор, случившийся в тот день, и узнаю о невероятной тёмной силе, сокрытой на тех далёких затонувших островах. Пока кровь заливает плевру [medivh_character.GetFirstNamePossessiveNoTooltip], выжимая из [medivh_character.GetHerHis] жизнь, я ощущаю прилив ликования. И когда сознание [medivh_character.GetHerHis] гаснет, погружаясь в шок, я..."
  wc_horde_invasion.2111.opt.a: "...чувствую, как моя душа отрывается от тела."
  wc_horde_invasion.2111.opt.a.tt: "Этот выбор — заглушка для будущего контента; #P вы восстановитесь через 1 год#!. Следите за обновлениями в нашем дискорде, и спасибо, что играете в Guardians of Azeroth 2!"
- wc_horde_invasion.2111.opt.b.confront: "... miraculously resist."
+ wc_horde_invasion.2111.opt.b.confront: "...чудом устоять."
  wc_horde_invasion.2111.opt.b.tt: "Этот выбор доступен только игрокам-людям и является заглушкой для будущего контента. Следите за обновлениями в нашем дискорде, и спасибо, что играете в Guardians of Azeroth 2!"
  # Gul'dan Gains Knowledge from Medivh
- wc_horde_invasion.2112.title: "Brain Drain"
+ wc_horde_invasion.2112.title: "Отток знаний"
  wc_horde_invasion.2112.desc: "За прошедший год я исподволь заглядывал в разум [medivh_character.GetFirstNamePossessive], пытаясь отыскать местоположение #N Гробницы Саргераса#! — источника демонической силы, который мог бы даровать мне богоподобные способности. Однако Маг не промах: он отлично обучен как мнемоническим искусствам, так и тайной магии. И всё же мне пришлось проникать очень глубоко, в конечном счёте дав [medivh_character.GetHerHim] заметить мою деятельность. Это уже не важно... Теперь, когда я нашёл в разуме [medivh_character.GetHerHis] искомое, никакая сила на этой планете не помешает мне обрести высшее могущество!"
  wc_horde_invasion.2112.opt: "Теперь [medivh_character.GetHerHis] сокровенные тайны принадлежат мне."
  # Medivh is Confronted
- wc_horde_invasion.2201.title: "A Fated Confrontation"
+ wc_horde_invasion.2201.title: "Роковая встреча"
  wc_horde_invasion.2201.desc.intro.canon: "Ощутив присутствие моего ученика [khadgar_character.GetFirstName], я слышу, как голоса в моём разуме взвиваются до оглушительной какофонии. В этот миг я понимаю: единственный путь вперёд — уничтожение [khadgar_character.GetHerHis]. Моя кожа покалывает от возбуждения, пока я жду в своём ателье, и вскоре [khadgar_character.GetSheHe] предстаёт передо мной.\n\n"
  wc_horde_invasion.2201.desc.intro.non-canon: "Приближается присутствие моего ученика [khadgar_character.GetFirstName], и я ощущаю [khadgar_character.GetHerHis] жестокие намерения. Игра окончена; день, которого я боялся, наконец настал. Я собираюсь с духом в своём ателье, когда [khadgar_character.GetFirstNameNoTooltip] входит в дверь и предстаёт передо мной.\n\n"
  wc_horde_invasion.2201.desc.taunt.party: "«Итак, ученик вернулся, — презрительно шиплю я, — и привёл с собой друзей. Небось на чаепитие пожаловал?»\n[khadgar_character.GetFirstNameNoTooltip] игнорирует мою насмешку, разражаясь предсказуемым монологом о том, что приведёт меня к «правосудию».\n\n"
@@ -238,8 +238,8 @@
  wc_horde_invasion.2201.desc.feeling.insane: "«Молчать!» — обрываю я [khadgar_character.GetHerHim]. — «Твоя наглость будет наказана участью хуже смерти; твоё сломленное тело вечно будет служить моему господину!» Залп тайной магии — и битва началась."
  wc_horde_invasion.2201.desc.feeling.ok: "Притворившись сговорчивым, я поворачиваюсь и даю [khadgar_character.GetFirstNameNoTooltip] договорить. «Однажды ты поймёшь, почему я сделал то, что сделал, — вздыхаю я, дожидаясь, пока [khadgar_character.GetHerHim] ослабит [khadgar_character.GetHerHis] бдительность, — если переживёшь это!» Залп тайной магии — и битва началась."
  wc_horde_invasion.2201.opt.a: "Теперь судьба решит, кто победит."
- wc_horde_invasion.2201.opt.a.tt.forwin: "#help You survive the battle and escape#!"
- wc_horde_invasion.2201.opt.a.tt.forloss: "#XB You are slain in the battle#!"
+ wc_horde_invasion.2201.opt.a.tt.forwin: "#help Вы выживете в битве и сбежите#!"
+ wc_horde_invasion.2201.opt.a.tt.forloss: "#XB Вы будете убиты в битве#!"
  # Medivh dies
  wc_horde_invasion.2202.title: "Судьба Медива"
  wc_horde_invasion.2202.desc.drained: "Истощённый, я оказался не соперником юному [khadgar_character.GetFirstName]."
@@ -249,9 +249,9 @@
  wc_horde_invasion.2202.opt.b: "Коварному [guldan_character.GetTitledFirstName], моему орочьему двойнику."
  wc_horde_invasion.2202.opt.d: "Моему слуге, [moroes_character.GetFirstName], который примет эти земли."
  wc_horde_invasion.2202.opt.e: "Тьме Круговерти Пустоты."
- wc_horde_invasion.2202.opt.e.tt: "#N Your current playthough will end!#!"
+ wc_horde_invasion.2202.opt.e.tt: "#N Ваше текущее прохождение завершится!#!"
  # Medivh survives
- wc_horde_invasion.2203.title: "Medivh Survives"
+ wc_horde_invasion.2203.title: "Медив выживает"
  wc_horde_invasion.2203.opt.a: "Быть может... я смогу всё исправить?"
  # Orgrim - Path to Glory pt2
  wc_horde_invasion.2401.title.durotan_dead: "Время возмездия"
@@ -268,7 +268,7 @@
  wc_horde_invasion.2402.desc: "Гул голосов снаружи подсказывает мне, что у моего [ROOT.Char.GetTitleAsNamePossessiveNoTooltip] шатра собралась большая толпа. Откинув полог, я удивляюсь вдвойне. Во-первых, толпа больше похожа на море зеленокожих орочьих лиц... Кажется, едва ли не вся [GetTitleByKey('e_horde').GetName] собралась здесь, на грязном, разорённом поле боя, что некогда было [GetTitleByKey('k_stormwind').GetName].\n\nВо-вторых, прямо у моего шатра стоит [orgrim_character.GetNameNicknamed], мой былой защитник. Захлёбываясь от негодования, я едва в силах слушать, как предатель выкрикивает ритуальный призыв к [Glossary( '$makgora_name|q$', 'MAKGORA_GLOSS' )].\n\nВо мне закипает демоническая ярость, пересиливая даже страх перед ужасным оружием, чьё имя носит мой противник. Время раздумий прошло — настало время славной битвы!"
  wc_horde_invasion.2402.opt: "[GetTitleByKey('e_horde').GetNameNoTooltip] принадлежит мне!"
  # King Lane is Killed
- wc_horde_invasion.2901.title: "Checkmate"
+ wc_horde_invasion.2901.title: "Мат"
  wc_horde_invasion.2901.victim.intro: "Я просыпаюсь и вижу тень, склонившуюся над моей кроватью. Прежде чем я успеваю среагировать, по моему горлу грубо полосует нож. Даже в темноте, пока моё зрение меркнет вместе с покидающей тело жизнью, я различаю безошибочную фигуру [garona_character.GetFullName], наблюдающую за мной... Присматривающую за моей безмолвной смертью."
  wc_horde_invasion.2901.victim.showed_mercy: "Так вот цена моего милосердия к орку?"
  wc_horde_invasion.2901.victim.imprisoned_her: "Змея, должно быть, сбежала из моих подземелий..."
@@ -335,7 +335,7 @@
  horde_bloodshed.d: "Пленено [GetPlayer.MakeScope.Var('victims_enslaved').GetValue] человек, убито [GetPlayer.MakeScope.Var('victims_killed').GetValue]."
  horde_bloodshed.residents: "Жители [bloodshed_location.GetName] погибнут от ярости Орды, но некоторым удастся бежать или попасть в рабство."
  activity.war_dangerous: "Сейчас слишком опасно путешествовать сюда."
- garona_hook_lost: "#N You lost your [strong_hook|E] on [garona_character.GetName]#!!"
+ garona_hook_lost: "#N Вы потеряли [strong_hook|E] на [garona_character.GetName]#!!"
  learned_tomb_location_flag: "Вы узнали местоположение #N Гробницы Саргераса#!!"
  guldan_recovered_from_coma_notification: "Вы очнулись от комы!"
  blackdoom_stormwind_title_change_effect_orgrim_tt: "#V Вы#! получаете все [titles|E] в [GetTitleByKey('d_stormwind').GetName], а также [GetTitleByKey('k_stormwind').GetName]."

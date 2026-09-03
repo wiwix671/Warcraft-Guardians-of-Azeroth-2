@@ -206,7 +206,7 @@
  e_gorian_empire_adj: "Горианск"
  e_gorian_empire_article: ""
   
- k_gordunni: "Gordok Gordunni"
+ k_gordunni: "Гордок Гордунни"
  k_gordunni_adj: "Gordunni"
  k_gordunni_article: "$THE_$"
   
@@ -264,7 +264,7 @@
  d_savage_hill_adj: "Гнолльск"
  d_savage_hill_article: ""
   
- d_redpine: "Redpine Pack"
+ d_redpine: "Краснолесская стая"
  d_redpine_adj: "Redpine"
  d_redpine_article: "$THE_$"
   
@@ -389,13 +389,13 @@
  k_galak_adj: "Кентаврск"
  k_galak_article: " "
   
- e_high_khanate: "High Khanate"
- e_high_khanate_adj: "High Khanate"
+ e_high_khanate: "Верховный Ханат"
+ e_high_khanate_adj: "Верховный Ханат"
  e_high_khanate_article: "$THE_$"
   
   ### Quilboar ### 
- d_deaths_head: "Death's Head"
- d_deaths_head_adj: "Death's Head"
+ d_deaths_head: "Мёртвая голова"
+ d_deaths_head_adj: "Мёртвая голова"
  d_deaths_head_article: "$THE_$"
   
   ### High Elves ### 
@@ -579,7 +579,7 @@
  d_orcish_shamanism_adj: "Шаманск"
  d_orcish_shamanism_article: ""
   
- d_wildhammer_shamanism: "Shamanic Council"
+ d_wildhammer_shamanism: "Шаманский совет"
  d_wildhammer_shamanism_adj: "Shamanic"
  d_wildhammer_shamanism_article: "$THE_$"
   

@@ -206,7 +206,7 @@
  CHURCH_PLURAL: "церкви"
   
  CREST_NAME: "венец"
- shadow_holy_symbol1: "broken mask"
+ shadow_holy_symbol1: "сломанная маска"
  shadow_holy_symbol2: "$shadow_holy_symbol2$"
  shadow_holy_symbol3: "$CREST_NAME$"
  SCRIPTURES_NAME: "манускрипт"

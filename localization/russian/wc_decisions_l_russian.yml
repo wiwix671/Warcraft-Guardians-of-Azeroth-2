@@ -363,7 +363,7 @@
  gnomeregan_rebuilding_efforts_decision_confirm: "Приступить к работе"
 
  operation_gnomeregan_decision: "Операция «Гномреган»"
- operation_gnomeregan_decision.desc: "Пришло время отбить нашу бывшую столицу из рук Сикко и его прокажённых гномов."
+ operation_gnomeregan_decision.desc: "Пришло время отбить нашу бывшую столицу из рук Сикко и его лепрогномов."
  operation_gnomeregan_decision_tt: "Мы начнём операцию по освобождению Гномрегана."
  operation_gnomeregan_decision_effect.tt: "Это поможет нам вернуть Гномреган."
  operation_gnomeregan_decision_confirm: "Начать операцию"

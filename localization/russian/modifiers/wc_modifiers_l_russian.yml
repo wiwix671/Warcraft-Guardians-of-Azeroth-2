@@ -350,17 +350,17 @@
  last_defender_of_lordaeron_desc: "Собрав союзников и зажёгши пламя в сердцах жителей Лордерона, этот персонаж поклялся защищать остатки королевства до последнего человека.\nОбщее [wc_magic_resistance|E]: #P +30%#!"
 
  # Scarlet Story Modifiers
- wc_scarlet_crusader: "Scarlet Crusader"
+ wc_scarlet_crusader: "Алый Крестоносец"
  wc_scarlet_crusader_desc: "Этот персонаж дал клятву истребить [scourge|E] в Лордероне и всех, кто встанет у него на пути.\n[wc_spell_school_death|E] [wc_magic_resistance|E]: #P +3#!"
 
- wc_scarlet_zealot: "Scarlet Extremist"
+ wc_scarlet_zealot: "Алый фанатик"
  wc_scarlet_zealot_desc: "Движимый либо чистым рвением и преданностью поклонению Свету, либо простым безумием, этот персонаж возложил на себя миссию покончить с [scourge|E], бросив вызов самому [GetTrait('lich_king').GetName( GetNullCharacter )].\n[wc_spell_school_death|E] [wc_magic_resistance|E]: #P +3#!"
 
  wc_building_new_hearthglen: "Строительство новой столицы"
  wc_building_new_hearthglen_desc: "Наш народ трудится усердно и быстро, выполняя задачу строительства нашей новой твердыни. Новый Хартглен станет свидетельством нашей славы и решимости."
 
  # Argent Story Modifiers
- wc_argent_leader: "Argent Crusader"
+ wc_argent_leader: "Серебряный Крестоносец"
  wc_argent_leader_desc: "Этот персонаж дал клятву защищать нуждающихся, вести войну против сил зла и проявлять сострадание ко всем разумным существам Азерота.\n[wc_spell_school_death|E] [wc_magic_resistance|E]: #P +2#! [wc_spell_school_disorder|E] [wc_magic_resistance|E]: #P +2#! [wc_spell_school_shadow|E] [wc_magic_resistance|E]: #P +1#!"
 
  # Liberate Lordaeron Modifiers
@@ -374,7 +374,7 @@
  warrior_of_lordaeron: "Воин Лордерона"
  warrior_of_lordaeron_desc: "Как благочестивый слуга Света, этот персонаж доказал, что является самым ревностным приверженцем своей веры, передав правление новым королевством Лордерон своему духовному главе.\n[wc_magical_prowess|E]: #P +1#!"
 
- patron_character: "Patron Character"
+ patron_character: "Покровитель"
 
  #Fall of Gnomeregan Modifiers
 

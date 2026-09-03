@@ -13,14 +13,14 @@
  game_concept_wc_race_class: "Подкласс расы"
  game_concept_wc_race_class_desc: "Дальнородственные [wc_races|El]. Не обязательно, что они имеют одинаковое происхождение, но у них схожие физиологические особенности, такие как, например, чешуя или жабры."
   
- game_concept_wc_long_lived: "Long-Lived"
+ game_concept_wc_long_lived: "Долгоживущие"
  game_concept_wc_long_lived_desc: "Характеристика некоторых [wc_races|E], живущих значительно дольше людей — на протяжении нескольких человеческих жизней. Некоторые обладают [wc_extreme_longevity|E], проживая тысячи и даже десятки тысяч лет. Чаще всего таковы [wc_elder_races|E], но определённые обстоятельства могут даровать такое долголетие и другим существам..."
   
- game_concept_wc_extreme_longevity: "Extreme Longevity"
+ game_concept_wc_extreme_longevity: "Чрезвычайное долголетие"
  game_concept_wc_extreme_longevity_desc: "Отличаясь продолжительностью жизни в тысячи и даже десятки тысяч лет, эти существа видели взлёт и падение цивилизаций и предшествуют всей письменной истории человечества. Невероятная перспектива, которую это даёт культуре, делает их одними из [wc_elder_races|E]."
   
- game_concept_wc_elder_races: "Elder Races"
- game_concept_wc_elder_race: "Elder Race"
+ game_concept_wc_elder_races: "Древние расы"
+ game_concept_wc_elder_race: "Древняя раса"
  game_concept_wc_elder_race_desc: "Некоторые [wc_races|E] отличаются [wc_extreme_longevity|E], поэтому их культуры несут древнюю мудрость о том, как жить дольше и лучше. Эти почти бессмертные существа обладают бонусами против определённых вредоносных событий и получают от них лучшие исходы. Со временем и доверием, возможно, более молодые расы смогут перенять эту мудрость в грядущие трудные времена..."
   
  game_concept_wc_children_of_cenarius_wo_family: "Кенария"

@@ -53,7 +53,7 @@
  tenet_progressivism_name: "Прогрессивизм"
  tenet_progressivism_desc: "Мы рассматриваем прогресс как абсолютное благо. Наше общество ориентировано на технологическое развитие и высоко ценит ремесленников и ученых."
  doctrine_parameter_progressivist_opinion_active: ""
- progressivist_opinion_active_opinion_name: "Hated Progressivist"
+ progressivist_opinion_active_opinion_name: "Ненавистный прогрессист"
  progressivist_opinion_active_county_opinion_name: "Ненавистное прогрессистское графство"
  doctrine_parameter_opinion_of_progressivist_opinion_active: "[opinion|E] прогрессивистов: $VALUE|+=0$"
  INCOMPATIBLE_TENET_PROGRESSIVISM_TRIGGER: "Несовместимо с [Concept('core_tenet', 'догматом')|E] [GetFaithDoctrine('tenet_progressivism').GetName( GetPlayer.GetFaith )]"

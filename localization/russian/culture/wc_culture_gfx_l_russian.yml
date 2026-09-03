@@ -136,7 +136,7 @@
  dwarven_coa_gfx: "$heritage_dwarven_name$"
  dwarf_clothing_gfx: "$heritage_dwarven_name$"
  dwarf_beards_gfx: "$heritage_dwarven_name$"
- dwarf_hairstyles_gfx: "heritage_dwarven_name"
+ dwarf_hairstyles_gfx: "$heritage_dwarven_name$"
  wildhammer_coa_gfx: "$wildhammer$"
  wildhammer_clothing_gfx: "$wildhammer$"
   
